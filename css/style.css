@@ -1,0 +1,26 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    align-items: center;
+    text-align: center;
+    background-image: url(https://fondosmil.com/fondo/34254.jpg);
+    color: #ffffff;
+}
+
+.blanco{
+   color: #ffffff;
+}
+.error{
+    background-color: red;
+    padding: 0.5rem;
+    align-items: center;
+    text-transform: uppercase;
+    color: #ffffff;
+}
+
+.exito{
+    background-color: greenyellow;
+    padding: 0.5rem;
+    align-items: center;
+    text-transform: uppercase;
+}
+
